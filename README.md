@@ -14,7 +14,7 @@ This project integrates Hugging Face's `transformers` library with HERE API to c
 4. **`chatbot_flow(place_name)`**: Combines the place description and coordinates into a user-friendly response with a map link.
 
 ## Colab Notebook
-To explore the code and test the chatbot yourself, you can use the following [Colab notebook link]([your_colab_link_here](https://colab.research.google.com/drive/146ec09CkM0uNS8e51MLmV0SGuYfSonaD#scrollTo=UxLxzDyYTBkO)).
+To explore the code and test the chatbot yourself, you can use the following [Colab notebook link](https://colab.research.google.com/drive/146ec09CkM0uNS8e51MLmV0SGuYfSonaD#scrollTo=UxLxzDyYTBkO).
 
 ### Example usage:
 
